@@ -4,4 +4,4 @@ This repos was made for porpuse to develop an API to connect a interface that wi
 
 The data information be going to get from a embedded system. The product get the information and sent to API that sent to frontend, the same scenario in inverse for other process.
 
-This project is a project presentation to ACELERA FATEC, an education event at university FATEC Prof. Waldomiro May that present some systems created by itself students.q
+This project is a project presentation to ACELERA FATEC, an education event at university FATEC Prof. Waldomiro May that present some systems created by itself students.
